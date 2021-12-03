@@ -1,0 +1,14 @@
+setup.py
+waiguoyu.egg-info/PKG-INFO
+waiguoyu.egg-info/SOURCES.txt
+waiguoyu.egg-info/dependency_links.txt
+waiguoyu.egg-info/entry_points.txt
+waiguoyu.egg-info/top_level.txt
+waiguoyuMain/__init__.py
+waiguoyuMain/items.py
+waiguoyuMain/middlewares.py
+waiguoyuMain/pipelines.py
+waiguoyuMain/settings.py
+waiguoyuMain/spiders/DoSpider.py
+waiguoyuMain/spiders/__init__.py
+waiguoyuMain/spiders/start.py

@@ -1,0 +1,13 @@
+setup.py
+wsbgt/__init__.py
+wsbgt/items.py
+wsbgt/middlewares.py
+wsbgt/pipelines.py
+wsbgt/settings.py
+wsbgt.egg-info/PKG-INFO
+wsbgt.egg-info/SOURCES.txt
+wsbgt.egg-info/dependency_links.txt
+wsbgt.egg-info/entry_points.txt
+wsbgt.egg-info/top_level.txt
+wsbgt/spiders/__init__.py
+wsbgt/spiders/wsbgt.py
